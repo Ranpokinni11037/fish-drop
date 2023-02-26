@@ -1,0 +1,31 @@
+<html>
+    <header>
+        <img src="https://wdorogu.ru/wp-content/uploads/2022/06/image-68.png" width="50px" height="50px">
+    </header>
+    <body>
+      <a class="hjk" href="">поплавать с рыбой</a>
+      <a class="hjk" href="">купить рыбу</a>
+        <h1>клуб рыб капель</h1>
+        <center>
+        <img  src="https://vsegdanarybalke.ru/wp-content/uploads/2021/11/kaplya.jpg" height="400px">
+        </center>
+        <p class="abs">Что нужно для занятий?</p>
+        <div>
+        <p class="dfg">piscium guttae mundum regunt</p>
+        <ul>
+            <li>маска</li>
+            <li>трубка</li>
+            <li>ласты</li>
+            <li>гидрокостюм</li>
+            <li>еда чтоб вас не сожрали</li>
+            <li>компенсатор плавучести</li>
+            <li>подводный компьютер</li>
+       </ul>
+        </div>
+   <a class="cvb" href=""> В магазин</a>
+    </body>
+    <footer>
+        <p>Тел:   </p>
+        <p><a href="https://ranpokinni11037.github.io/fish-drop/" >Отзывы:</a></p>
+    </footer>   
+</html>
