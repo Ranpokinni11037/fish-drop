@@ -1,0 +1,25 @@
+<html>
+    <header>
+        <img src="https://wdorogu.ru/wp-content/uploads/2022/06/image-68.png" width="50px" height="50px">
+    </header>
+    <body>
+      <a class="hjk" href="">поплавать с рыбой</a>
+      <a class="hjk" href="">купить рыбу</a>
+        <h1>клуб рыб капель</h1>
+        <center>
+        <img  src="https://vsegdanarybalke.ru/wp-content/uploads/2021/11/kaplya.jpg" height="400px">
+        </center>
+        <p class="abs">Отзывы</p>
+        <div>
+        <p class="dfg">piscium guttae mundum regunt</p>
+       <p><img class="rty"src="https://mkusgk.ru/assets/cache_image/voinskie_zaxoroneniya/bratskaya_mogila-letchiki_1024x768_a92.jpg" width="120" height="180" align="middle">Всё прекрасно, правда меня съели, а так советую</p>
+        
+        <p><img class="rty"src="https://imgtest.mir24.tv/uploaded/images/2018/June/f8f23a949d1b7276dbb80a6e088a5c4b4f4d7c58a126fdfcace1961c026efe61.jpg" height="90px" align="left">Всё просто прекрасно, правда на следующий день я обнаружил, что у меня нет ноги. Столько эмоций я не испытавал никогда</p>
+        </div>
+   <a class="cvb" href=""> В магазин</a>
+    </body>
+    <footer>
+        <p>Тел:   </p>
+        <p>Отзывы:<a href="" ></a></p>
+    </footer>   
+</html>
